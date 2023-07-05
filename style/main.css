@@ -67,6 +67,7 @@ body {
   align-items: center;
   column-gap: 80px;
   margin-bottom: 95px;
+  list-style-type: none;
 }
 
 .nav a {
