@@ -9,12 +9,13 @@ owl.owlCarousel({
    items: 3,
 });
 
-$('.slider__btn--prev').click(function() {
-   
+$('.slider__btn--prev').click(function() {   
    owl.trigger('prev.owl.carousel');
 })
 
 $('.slider__btn--next').click(function() {
     owl.trigger('next.owl.carousel');
 })
+
+
 
