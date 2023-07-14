@@ -67,7 +67,11 @@ body {
   align-items: center;
   column-gap: 80px;
   margin-bottom: 95px;
+<<<<<<< HEAD
   
+=======
+  list-style-type: none;
+>>>>>>> 1ec855543a3248e493cc4682469a45d4dcbe9d6e
 }
 
 .nav a {
